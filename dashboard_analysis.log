@@ -1,0 +1,117 @@
+2025-05-24 16:57:50,067 - INFO - Starting complete sales dashboard analysis
+2025-05-24 16:57:50,068 - INFO - Found 23 CSV files in TotvsData
+2025-05-24 16:57:50,144 - INFO - Processed clientes_desde.csv: 2000 rows
+2025-05-24 16:57:50,267 - INFO - Processed contratacoes_ultimos_12_meses.csv: 2000 rows
+2025-05-24 16:57:53,902 - INFO - Processed dados_clientes.csv: 2000 rows
+2025-05-24 16:57:54,171 - INFO - Processed historico.csv: 2000 rows
+2025-05-24 16:57:54,275 - INFO - Processed mrr.csv: 2000 rows
+2025-05-24 16:57:54,456 - INFO - Processed nps_relacional.csv: 1987 rows
+2025-05-24 16:57:54,504 - INFO - Processed nps_transacional_aquisicao.csv: 175 rows
+2025-05-24 16:57:54,538 - INFO - Processed nps_transacional_implantacao.csv: 662 rows
+2025-05-24 16:57:54,608 - INFO - Processed nps_transacional_onboarding.csv: 208 rows
+2025-05-24 16:57:55,182 - INFO - Processed nps_transacional_produto.csv: 2000 rows
+2025-05-24 16:57:55,836 - INFO - Processed nps_transacional_suporte.csv: 2000 rows
+2025-05-24 16:58:03,263 - INFO - Processed tickets.csv: 2000 rows
+2025-05-24 16:58:03,283 - INFO - Merged with clientes_desde: (2000, 17)
+2025-05-24 16:58:03,291 - INFO - Merged with contratacoes_ultimos_12_meses: (2000, 19)
+2025-05-24 16:58:03,301 - INFO - Merged with historico: (2382, 34)
+2025-05-24 16:58:03,314 - INFO - Merged with mrr: (2382, 35)
+2025-05-24 16:58:03,327 - INFO - Merged with nps_relacional: (2503, 45)
+2025-05-24 16:58:03,334 - INFO - Merged with nps_transacional_aquisicao: (2503, 52)
+2025-05-24 16:58:03,350 - INFO - Merged with nps_transacional_implantacao: (2526, 60)
+2025-05-24 16:58:03,361 - INFO - Merged with nps_transacional_onboarding: (2526, 67)
+2025-05-24 16:58:03,384 - INFO - Merged with nps_transacional_produto: (3695, 71)
+2025-05-24 16:58:03,426 - INFO - Merged with nps_transacional_suporte: (15419, 79)
+2025-05-24 16:58:03,520 - INFO - Merged with tickets: (40014, 86)
+2025-05-24 16:58:08,295 - INFO - Visualizations saved to dashboard_plots
+2025-05-24 16:58:10,841 - INFO - Unified dataset exported to sales_analysis_results.csv
+2025-05-24 16:58:10,861 - INFO - Analysis summary exported to sales_analysis_results_summary.txt
+2025-05-24 16:58:10,862 - INFO - Analysis completed successfully
+2025-05-24 17:03:12,282 - INFO - Starting complete sales dashboard analysis
+2025-05-24 17:03:12,283 - INFO - Found 23 CSV files in TotvsData
+2025-05-24 17:03:12,394 - INFO - Processed clientes_desde.csv: 2000 rows
+2025-05-24 17:03:12,422 - INFO - Processed contratacoes_ultimos_12_meses.csv: 2000 rows
+2025-05-24 17:03:15,897 - INFO - Processed dados_clientes.csv: 2000 rows
+2025-05-24 17:03:16,158 - INFO - Processed historico.csv: 2000 rows
+2025-05-24 17:03:16,246 - INFO - Processed mrr.csv: 2000 rows
+2025-05-24 17:03:16,400 - INFO - Processed nps_relacional.csv: 1987 rows
+2025-05-24 17:03:16,427 - INFO - Processed nps_transacional_aquisicao.csv: 175 rows
+2025-05-24 17:03:16,471 - INFO - Processed nps_transacional_implantacao.csv: 662 rows
+2025-05-24 17:03:16,506 - INFO - Processed nps_transacional_onboarding.csv: 208 rows
+2025-05-24 17:03:17,031 - INFO - Processed nps_transacional_produto.csv: 2000 rows
+2025-05-24 17:03:17,668 - INFO - Processed nps_transacional_suporte.csv: 2000 rows
+2025-05-24 17:03:24,707 - INFO - Processed tickets.csv: 2000 rows
+2025-05-24 17:03:24,712 - INFO - Merged with clientes_desde: (2000, 17)
+2025-05-24 17:03:24,720 - INFO - Merged with contratacoes_ultimos_12_meses: (2000, 19)
+2025-05-24 17:03:24,734 - INFO - Merged with historico: (2382, 34)
+2025-05-24 17:03:24,746 - INFO - Merged with mrr: (2382, 35)
+2025-05-24 17:03:24,758 - INFO - Merged with nps_relacional: (2503, 45)
+2025-05-24 17:03:24,770 - INFO - Merged with nps_transacional_aquisicao: (2503, 52)
+2025-05-24 17:03:24,783 - INFO - Merged with nps_transacional_implantacao: (2526, 60)
+2025-05-24 17:03:24,792 - INFO - Merged with nps_transacional_onboarding: (2526, 67)
+2025-05-24 17:03:24,813 - INFO - Merged with nps_transacional_produto: (3695, 71)
+2025-05-24 17:03:24,855 - INFO - Merged with nps_transacional_suporte: (15419, 79)
+2025-05-24 17:03:24,955 - INFO - Merged with tickets: (40014, 86)
+2025-05-24 17:03:28,644 - INFO - Visualizations saved to dashboard_plots
+2025-05-24 17:03:30,975 - INFO - Unified dataset exported to sales_analysis_results.csv
+2025-05-24 17:03:30,990 - INFO - Analysis summary exported to sales_analysis_results_summary.txt
+2025-05-24 17:03:30,990 - INFO - Analysis completed successfully
+2025-05-24 17:05:13,252 - INFO - Starting complete sales dashboard analysis
+2025-05-24 17:05:13,253 - INFO - Found 23 CSV files in TotvsData
+2025-05-24 17:05:13,291 - INFO - Processed clientes_desde.csv: 2000 rows
+2025-05-24 17:05:13,391 - INFO - Processed contratacoes_ultimos_12_meses.csv: 2000 rows
+2025-05-24 17:05:16,636 - INFO - Processed dados_clientes.csv: 2000 rows
+2025-05-24 17:05:16,896 - INFO - Processed historico.csv: 2000 rows
+2025-05-24 17:05:16,991 - INFO - Processed mrr.csv: 2000 rows
+2025-05-24 17:05:17,161 - INFO - Processed nps_relacional.csv: 1987 rows
+2025-05-24 17:05:17,190 - INFO - Processed nps_transacional_aquisicao.csv: 175 rows
+2025-05-24 17:05:17,233 - INFO - Processed nps_transacional_implantacao.csv: 662 rows
+2025-05-24 17:05:17,267 - INFO - Processed nps_transacional_onboarding.csv: 208 rows
+2025-05-24 17:05:17,774 - INFO - Processed nps_transacional_produto.csv: 2000 rows
+2025-05-24 17:05:18,421 - INFO - Processed nps_transacional_suporte.csv: 2000 rows
+2025-05-24 17:05:25,303 - INFO - Processed tickets.csv: 2000 rows
+2025-05-24 17:05:25,310 - INFO - Merged with clientes_desde: (2000, 17)
+2025-05-24 17:05:25,315 - INFO - Merged with contratacoes_ultimos_12_meses: (2000, 19)
+2025-05-24 17:05:25,325 - INFO - Merged with historico: (2382, 34)
+2025-05-24 17:05:25,334 - INFO - Merged with mrr: (2382, 35)
+2025-05-24 17:05:25,343 - INFO - Merged with nps_relacional: (2503, 45)
+2025-05-24 17:05:25,359 - INFO - Merged with nps_transacional_aquisicao: (2503, 52)
+2025-05-24 17:05:25,377 - INFO - Merged with nps_transacional_implantacao: (2526, 60)
+2025-05-24 17:05:25,387 - INFO - Merged with nps_transacional_onboarding: (2526, 67)
+2025-05-24 17:05:25,409 - INFO - Merged with nps_transacional_produto: (3695, 71)
+2025-05-24 17:05:25,452 - INFO - Merged with nps_transacional_suporte: (15419, 79)
+2025-05-24 17:05:25,553 - INFO - Merged with tickets: (40014, 86)
+2025-05-24 17:05:29,267 - INFO - Visualizations saved to dashboard_plots
+2025-05-24 17:05:31,689 - INFO - Unified dataset exported to sales_analysis_results.csv
+2025-05-24 17:05:31,702 - INFO - Analysis summary exported to sales_analysis_results_summary.txt
+2025-05-24 17:05:31,703 - INFO - Analysis completed successfully
+2025-05-24 17:08:20,349 - INFO - Starting complete sales dashboard analysis
+2025-05-24 17:08:20,350 - INFO - Found 23 CSV files in TotvsData
+2025-05-24 17:08:20,395 - INFO - Processed clientes_desde.csv: 2000 rows
+2025-05-24 17:08:20,495 - INFO - Processed contratacoes_ultimos_12_meses.csv: 2000 rows
+2025-05-24 17:08:23,842 - INFO - Processed dados_clientes.csv: 2000 rows
+2025-05-24 17:08:24,099 - INFO - Processed historico.csv: 2000 rows
+2025-05-24 17:08:24,188 - INFO - Processed mrr.csv: 2000 rows
+2025-05-24 17:08:24,337 - INFO - Processed nps_relacional.csv: 1987 rows
+2025-05-24 17:08:24,369 - INFO - Processed nps_transacional_aquisicao.csv: 175 rows
+2025-05-24 17:08:24,413 - INFO - Processed nps_transacional_implantacao.csv: 662 rows
+2025-05-24 17:08:24,448 - INFO - Processed nps_transacional_onboarding.csv: 208 rows
+2025-05-24 17:08:24,971 - INFO - Processed nps_transacional_produto.csv: 2000 rows
+2025-05-24 17:08:25,647 - INFO - Processed nps_transacional_suporte.csv: 2000 rows
+2025-05-24 17:08:32,524 - INFO - Processed tickets.csv: 2000 rows
+2025-05-24 17:08:32,530 - INFO - Merged with clientes_desde: (2000, 17)
+2025-05-24 17:08:32,537 - INFO - Merged with contratacoes_ultimos_12_meses: (2000, 19)
+2025-05-24 17:08:32,545 - INFO - Merged with historico: (2382, 34)
+2025-05-24 17:08:32,554 - INFO - Merged with mrr: (2382, 35)
+2025-05-24 17:08:32,569 - INFO - Merged with nps_relacional: (2503, 45)
+2025-05-24 17:08:32,576 - INFO - Merged with nps_transacional_aquisicao: (2503, 52)
+2025-05-24 17:08:32,594 - INFO - Merged with nps_transacional_implantacao: (2526, 60)
+2025-05-24 17:08:32,603 - INFO - Merged with nps_transacional_onboarding: (2526, 67)
+2025-05-24 17:08:32,623 - INFO - Merged with nps_transacional_produto: (3695, 71)
+2025-05-24 17:08:32,702 - INFO - Merged with nps_transacional_suporte: (15419, 79)
+2025-05-24 17:08:32,847 - INFO - Merged with tickets: (40014, 86)
+2025-05-24 17:08:36,421 - INFO - Visualizations saved to dashboard_plots
+2025-05-24 17:08:39,495 - INFO - Before/After comparison visualizations saved to dashboard_plots
+2025-05-24 17:08:42,433 - INFO - Unified dataset exported to sales_analysis_results.csv
+2025-05-24 17:08:42,474 - INFO - Analysis summary exported to sales_analysis_results_summary.txt
+2025-05-24 17:08:42,476 - INFO - Analysis completed successfully

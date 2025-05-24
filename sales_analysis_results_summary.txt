@@ -1,0 +1,27 @@
+SALES DASHBOARD ANALYSIS SUMMARY
+========================================
+
+TOTAL_CLIENTS:
+  1613
+
+TOTAL_RECORDS:
+  40014
+
+REVENUE_METRICS:
+  total_mrr: 1417312.125
+  avg_mrr_per_client: 708.6560668945312
+  mrr_distribution: {'MRR_12M': {'count': 2000.0, 'mean': 708.6560668945312, 'std': 1655.85595703125, 'min': 0.0, '25%': 137.8534927368164, '50%': 378.15174865722656, '75%': 780.8115081787109, 'max': 42838.390625}}
+
+SUPPORT_METRICS:
+  total_tickets: 2000
+  unique_clients_with_tickets: 1366
+  avg_tickets_per_client: 1.4641288433382138
+
+NPS_METRICS:
+  nps_relacional: {'responses': 1987, 'avg_score': np.float64(8.091819076738602)}
+  nps_transacional_aquisicao: {'responses': 175, 'avg_score': np.float64(8.678095149993895)}
+  nps_transacional_implantacao: {'responses': 662, 'avg_score': np.float64(7.734138894400105)}
+  nps_transacional_onboarding: {'responses': 208, 'avg_score': np.float64(9.407852564102564)}
+  nps_transacional_produto: {'responses': 2000, 'avg_score': np.float64(7.301)}
+  nps_transacional_suporte: {'responses': 2000, 'avg_score': np.float64(3000917.780214203)}
+
